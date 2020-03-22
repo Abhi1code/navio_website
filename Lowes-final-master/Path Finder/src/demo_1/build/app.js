@@ -38814,3 +38814,4 @@ object-assign
     })
 }
 ]);
+document.getElementById("load").style.visibility = "hidden";
